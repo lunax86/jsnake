@@ -1,0 +1,3 @@
+# jSnake
+
+Simple **snake** game.

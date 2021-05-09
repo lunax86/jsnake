@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #3e4444;
+}
+#wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
